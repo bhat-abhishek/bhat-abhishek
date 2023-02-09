@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Abhishek Bhat</h1>
+
+<h1 align="center">Hey 👋, I'm Abhishek Bhat</h1>
 <h3 align="center">Building modern web solutions with the MERN stack: Mastering the art of seamless development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-bhat18&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-bhat18" /> </p>
