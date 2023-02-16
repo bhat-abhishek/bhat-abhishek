@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **React, Tailwind, Frontend, NodeJs, ExpressJs,**
+- 💬 Ask me about **React, TailwindCSS, Frontend, NodeJs, ExpressJs,**
 
-- 📫 How to reach me **abhishekbhat344@gmail.com**
+- 📫 How to reach me **abhishekbhat.dev@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
