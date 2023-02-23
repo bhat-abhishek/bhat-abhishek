@@ -17,7 +17,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/https://github.com/Abhi-Bhat18)  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-bhat-57516a213/)  
+ 
 <p align="left">
 </p>
 
