@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey 👋, I'm Abhishek Bhat</h1>
-<h3 align="center">Building modern web solutions with the MERN stack: Mastering the art of seamless development</h3>
+<h3 align="center">Building modern web solutions with the JavaScript, NodeJs and Golang: Mastering the art of seamless development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-bhat18&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-bhat18" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **React, TailwindCSS, Frontend, NodeJs, ExpressJs,**
+- 💬 Ask me about **Frontend,React,MongoDB, PostgreSQL, NodeJs, ExpressJs,**
 
-- 📫 How to reach me **abhishekbhat.dev@gmail.com**
+- 📫 How to reach me **mail@abhishekbhat.com**
 
 
 <h3 align="left">Connect with me:</h3>
